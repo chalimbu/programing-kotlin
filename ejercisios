@@ -1,3 +1,5 @@
-proyecto corre con java 15
+this project works with java 15
 
 1 cambiar la funcion en chapter2/defaultParameters para que acepte como parametro hello o otra palabra
+
+2 cambiar la funcion en chapter2/UndefinedParameterSize para que acepte una cantida arbitraria de int
