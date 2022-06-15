@@ -17,6 +17,7 @@ fun feedCrew(crew: List<Sloth>){
     }
 }
 //define a way so the method feedCrew works both for pandas and sloths
+//and explain if this is using covariance or contravariance
 fun main(){
     val sloth: Sloth
     val slothCrew=listOf(
